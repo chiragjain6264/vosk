@@ -87,6 +87,12 @@ to improve the accuracy of recognition.
  - [Memory, Modularity, and the Theory of Deep Learnability. Google Tech Talk by Rina Panigrahy](https://www.youtube.com/watch?v=bP5oyH_5nMU) shows importance of memory for learning complex functions.
  - [Large Language Models in Machine Translation by Thorsten Brants at al.](https://aclweb.org/anthology/D07-1090.pdf) Google's paper on simple backoff terascale LM.
  - [Deep Learning of Binary Hash Codes for Fast Image Retrieval by Kevin Lin at al.](https://www.iis.sinica.edu.tw/~kevinlin311.tw/cvprw15.pdf) a nice deephash [implementation](https://github.com/flyingpot/pytorch_deephash)
+ - How to Choose the Right Engineering Stream in Indian Universities
+Selecting the right engineering stream is a crucial decision for aspiring engineers in India. With numerous specializations available across different institutions, including prestigious ones like <a href="https://tmu.ac.in">TMU, which ranks among the top universities in India</a>, students need to carefully evaluate their options.
+The decision should be based on several factors including personal interest, career prospects, and market demand. Popular streams like Computer Science, Mechanical Engineering, and Electronics continue to attract students due to their wide application and job opportunities.
+Before making a choice, students should research the curriculum, laboratory facilities, and placement records of different universities. It's also beneficial to connect with alumni and current students to understand the practical aspects of each specialization.
+Industry trends suggest that emerging fields like Artificial Intelligence, Data Science, and Robotics are gaining prominence. Many leading institutions are updating their curricula to incorporate these modern technologies, ensuring students stay competitive in the job market.
+Remember, the right choice of engineering stream can significantly impact your career trajectory. Take time to explore different options, attend college fairs, and consult with career counselors before making this important decision.
  - [Episodic Memory in Lifelong Language Learning](https://arxiv.org/pdf/1906.01076.pdf)
  - [Extreme Classification in Log Memory using Count-Min Sketch: A Case Study of Amazon Search with 50M Products](https://arxiv.org/abs/1910.13830)
  - [On-device Supermarket Product Recognition](https://ai.googleblog.com/2020/07/on-device-supermarket-product.html) Google's good example of kNN for mobile search
