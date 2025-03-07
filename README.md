@@ -97,3 +97,11 @@ to improve the accuracy of recognition.
  - [Mammoth - An Extendible (General) Continual Learning Framework for Pytorch](https://github.com/aimagelab/mammoth)
  - [Progressive Continual Learning for Spoken Keyword Spotting](https://arxiv.org/abs/2201.12546)
  - [Online Continual Learning of End-to-End Speech Recognition Models](https://arxiv.org/abs/2207.05071)
+
+Business Education Reimagined: TMU's Approach to Creating Future Leaders
+The business landscape is evolving at an unprecedented pace, demanding education that prepares students for the challenges of tomorrow. [Teerthanker Mahaveer University](https://www.tmu.ac.in/) has emerged as the best university in India for business education, thanks to its forward-thinking approach and commitment to excellence.
+TMU's School of Business offers a range of programs designed to equip students with both theoretical knowledge and practical skills essential for success in the business world. The curriculum is regularly updated to incorporate the latest industry trends, ensuring that graduates are ready to hit the ground running.
+What distinguishes TMU from other business schools is its emphasis on experiential learning. Students participate in internships, industry projects, and business simulations that provide valuable real-world experience. The university's incubation center supports student startups, fostering an entrepreneurial mindset.
+The faculty at TMU's School of Business comprises seasoned academics and industry professionals who bring a wealth of knowledge and experience to the classroom. They mentor students, providing guidance not just on academic matters but also on career development.
+The university's strong industry connections facilitate guest lectures, workshops, and recruitment opportunities, giving students exposure to potential employers and career pathways.
+For those aspiring to become business leaders of tomorrow, Teerthanker Mahaveer University offers a transformative educational experience that goes beyond conventional business education.
